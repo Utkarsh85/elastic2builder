@@ -1,0 +1,16 @@
+{
+  "name": "elastic2builder",
+  "version": "1.0.0",
+  "description": "Elastic version 2 query builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "elastic",
+    "query",
+    "builder"
+  ],
+  "author": "Utkarsh85",
+  "license": "MIT"
+}
