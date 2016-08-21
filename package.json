@@ -6,11 +6,19 @@
   "scripts": {
     "test": "mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utkarsh85/elastic2builder.git"
+  },
   "keywords": [
     "elastic",
     "query",
     "builder"
   ],
+  "bugs": {
+    "url": "https://github.com/Utkarsh85/elastic2builder/issues"
+  },
+  "homepage": "https://github.com/Utkarsh85/elastic2builder#readme",
   "author": "Utkarsh85",
   "license": "MIT"
 }
