@@ -1,6 +1,6 @@
 {
   "name": "elastic2builder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Elastic version 2 query builder",
   "main": "index.js",
   "scripts": {
